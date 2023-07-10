@@ -1,0 +1,45 @@
+ul.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #9ac5f4;
+    opacity: 0.7;
+    display:flex;
+    height:52px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  ul.navbar li {
+    float:right;
+  }
+
+  ul.navbar li a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    display: block;
+    color: #25316D;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  ul.navbar li a:hover {
+    background-color: #111;
+  }
+
+  .navbar-logo {
+    margin-right: auto;
+    margin-left: 2px;
+    width: 150px; 
+    height: 45px; 
+  }
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-image: url('../../images/travel.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+  }

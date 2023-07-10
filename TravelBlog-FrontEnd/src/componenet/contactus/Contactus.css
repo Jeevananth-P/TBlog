@@ -1,0 +1,25 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.contact-section {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+h1,a{
+    font-size: 48px;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: white;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-size: 24px;
+    line-height: 1.5;
+    margin-bottom: 110px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
